@@ -3,7 +3,7 @@ This program was done as a College Mini Project by js0753(Jainam Shah), nsp456(N
 # DVES
 Digital Vehicle Entry System
 
-Place image to scan in the same folder. Image should be named test.jpg.
+Place image to scan in the same folder. Image should be named test.jpg and be in same folder as dves_gui.py.
 Run dves_gui.py
 
 # Basic Startup:
